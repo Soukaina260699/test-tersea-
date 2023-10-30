@@ -1,0 +1,38 @@
+/* colors */
+
+.cl_grey {
+    color: #2e2d2d;
+}
+
+.mr_auto {
+    margin: 0 0 0 auto;
+}
+
+
+/* header */
+
+.logo {
+    height: 75px;
+}
+
+.col_sidebar {
+    height: 100vh;
+    background: white;
+    padding: 3rem;
+}
+
+.col_sidebar ul {
+    list-style: none;
+}
+
+.col_sidebar ul li {
+    padding: 1rem 0;
+}
+
+.col_sidebar ul>li>a {
+    color: #2e2d2d;
+    text-decoration: none;
+    font-size: 1.35rem;
+    font-family: sans-serif;
+    font-weight: 600;
+}
